@@ -43,8 +43,8 @@ nav .nav-list-bottom {
 }
 
 nav .nav-brand img {
-    width: 50px;
-    border-radius: 50%;
+    width: 60px;
+    border-radius: 0%;
     margin-top: 15px;
     transition: .4s;
 }
@@ -98,7 +98,7 @@ nav .nav-item i {
 }
 
 nav:hover .nav-item i {
-    color: #f4c402;
+    color: #ffffff;
 }
 
 nav .nav-item span {
